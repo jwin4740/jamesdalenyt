@@ -1,0 +1,12 @@
+.jumbotron {
+  background-image: url("http://www.freetoursbyfoot.com/wp-content/uploads/2013/08/New-York-Skyline-Downdown-view.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron h1 {
+  font-size: 52px;
+}
+
+.jumbotron h2 {
+  font-size: 36px;
+}
