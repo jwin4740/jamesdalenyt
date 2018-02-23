@@ -2,7 +2,7 @@
   "name": "mern",
   "version": "1.0.0",
   "description": "Mern Demo",
-  "main": "server.js",
+  "main": "indexr.js",
   "scripts": {
     "start": "node server",
     "build": "node scripts/build.js",
@@ -16,7 +16,8 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^3.5.0",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7"
   },
   "engines": {
     "node": "9.4.0",
